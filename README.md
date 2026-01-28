@@ -23,7 +23,7 @@ Hi 👋, I'm Moatasem Osama
 - 🔧 **Automotive Embedded Software Engineer**
 - 🚘 Experience with **CAN, LIN, UART, SPI, I²C**
 - 🧠 Knowledge of **AUTOSAR architecture & RTOS**
-- 🖥️ Hands-on **PCB design** for embedded & IoT systems
+- 🖥️ Hands-on **PCB design** for embedded systems
 
 ---
 
@@ -115,9 +115,6 @@ Hi 👋, I'm Moatasem Osama
   </a>
   <a href="https://www.linkedin.com/in/moatasemosama">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Mo3tasemO">
-    <img src="https://img.shields.io/badge/GitHub-black?style=plastic&logo=github"/>
   </a>
 </p>
 
