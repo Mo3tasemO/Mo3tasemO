@@ -4,7 +4,7 @@ Hi 👋, I'm Moatasem Osama
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23007ACC&size=25&center=true&vCenter=true&width=700&height=100&lines=Automotive+Embedded+Software+Engineer;PCB+Designer+%7C+ECU+Development;STM32+%7C+AVR+%7C+ESP32;CAN+%7C+LIN+%7C+AUTOSAR+Basics;Turning+Ideas+Into+Reliable+Hardware">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23007ACC&size=25&center=true&vCenter=true&width=700&height=100&lines=Automotive+Embedded+Software+Engineer;PCB+Designer+%7C+ECU+Development;STM32+%7C+AVR+%7C+ESP32;CAN+%7C+LIN+%7C+AUTOSAR;Turning+Ideas+Into+Reliable+Hardware">
 </p>
 
 
