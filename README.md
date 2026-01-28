@@ -1,91 +1,135 @@
-<h2 align="left">
-  Hi 👋! My name is Mo3tasem and I'm an Embedded Software Engineer / PCB Designer from Egypt 🇪🇬
-</h2>
+<h1 align="center">
+Hi 👋, I'm Moatasem Osama
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23007ACC&size=25&center=true&vCenter=true&width=700&height=100&lines=Automotive+Embedded+Software+Engineer;PCB+Designer+%7C+ECU+Development;STM32+%7C+AVR+%7C+ESP32;CAN+%7C+LIN+%7C+AUTOSAR+Basics;Turning+Ideas+Into+Reliable+Hardware">
+</p>
+
 
 ---
 
-### 👨‍💻 About Me
-I’m an Embedded Software Engineer and PCB Designer passionate about low-level programming, hardware–software integration, and building reliable embedded systems. I enjoy working with microcontrollers, Linux-based environments, and transforming ideas into real, functional hardware.
+## 🚗 About Me | Automotive & PCB Focus
+
+<picture>
+<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250"/>
+</picture>
+
+
+
+- 🎓 **Electronics & Communication Engineering Student**  
+  *Canadian International College (2022–2027)*  
+- 🔧 **Automotive Embedded Software Engineer**
+- 🚘 Experience with **CAN, LIN, UART, SPI, I²C**
+- 🧠 Knowledge of **AUTOSAR architecture & RTOS**
+- 🖥️ Hands-on **PCB design** for embedded & IoT systems
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo3tasemO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mo3tasemO&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div>
+## 🔧 Automotive & Embedded Projects
+
+### 🚘 Automotive / Embedded Systems
+- **Seat Controller ECU** – STM32, ESP32, I²C, UART
+- **Traffic Density Control System** – ATmega8
+- **Obstacle Avoidance Car** – ATmega32
+- **Smart Home** – EEPROM, LM35, LCD, Keypad
+
+### 🧠 PCB & Electronics Design
+- **ESP8266 Custom Development Board**
+- **Regulated Power Supply Circuit**
+- **Function Generator (NE555 – up to 32kHz)**
+- **Voice-Controlled Lighting System**
+- **Digital Counter (74LS90 & 74LS47)**
+
+🔗 Repositories:  
+👉 https://github.com/Mo3tasemO
 
 ---
 
-### 🛠️ Languages & Embedded Technologies
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" />
-</div>
+## 🛠️ Technical Skills
+
+### 🔹 Programming & Embedded Software
+<p align="center">
+  <img src="https://img.shields.io/badge/C-blue?style=plastic&logo=c"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Embedded%20C-darkgreen?style=plastic"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python"/>
+</p>
+
+### 🔹 Automotive Protocols & Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/CAN-red?style=plastic"/>
+  <img src="https://img.shields.io/badge/LIN-purple?style=plastic"/>
+  <img src="https://img.shields.io/badge/UART-yellow?style=plastic"/>
+  <img src="https://img.shields.io/badge/SPI-orange?style=plastic"/>
+  <img src="https://img.shields.io/badge/I2C-lightgrey?style=plastic"/>
+  <img src="https://img.shields.io/badge/AUTOSAR%20-black?style=plastic"/>
+  <img src="https://img.shields.io/badge/RTOS%20-darkblue?style=plastic"/>
+</p>
+
+### 🔹 Microcontrollers & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32-blue?style=plastic"/>
+  <img src="https://img.shields.io/badge/AVR-darkred?style=plastic"/>
+  <img src="https://img.shields.io/badge/ESP32-black?style=plastic"/>
+  <img src="https://img.shields.io/badge/PIC-orange?style=plastic"/>
+  <img src="https://img.shields.io/badge/Arduino-teal?style=plastic"/>
+</p>
+
+### 🔹 PCB Design & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/KiCad-darkgreen?style=plastic"/>
+  <img src="https://img.shields.io/badge/OrCAD-red?style=plastic"/>
+  <img src="https://img.shields.io/badge/Proteus-blue?style=plastic"/>
+  <img src="https://img.shields.io/badge/Multisim-orange?style=plastic"/>
+  <img src="https://img.shields.io/badge/SolidWorks-grey?style=plastic"/>
+</p>
+
+### 🔹 Development & OS
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-yellow?style=plastic&logo=linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu"/>
+  <img src="https://img.shields.io/badge/Git-black?style=plastic&logo=git"/>
+  <img src="https://img.shields.io/badge/GitLab-orange?style=plastic&logo=gitlab"/>
+  <img src="https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira"/>
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=plastic&logo=visualstudiocode"/>
+</p>
 
 ---
+## 📄 My CV
 
-### ⚙️ Tools, OS & Platforms
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" />
-</div>
-
----
-
-### 📫 Connect with Me
-<div align="left">
-  <a href="mailto:moatasemelsharkawy12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+<p align="center">
+  <a href="https://drive.google.com/file/d/11uScs79HPMNkOi9URu0EO4zLcCOWnG0_/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-0047AB?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/moatasemosama" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:Moatasem.Elsharkawy12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/moatasemosama">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Mo3tasemO">
+    <img src="https://img.shields.io/badge/GitHub-black?style=plastic&logo=github"/>
+  </a>
+</p>
 
 ---
 
-<br clear="both" />
+## 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/Mo3tasemO/Mo3tasemO/output/snake.svg" alt="GitHub contribution snake animation" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo3tasemO&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo3tasemO&layout=compact&theme=tokyonight"/>
+</p>
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt" />
 
----
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&theme=cobalt" />
