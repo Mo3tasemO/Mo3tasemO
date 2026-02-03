@@ -42,8 +42,6 @@ Hi 👋, I'm Moatasem Osama
 - **Voice-Controlled Lighting System**
 - **Digital Counter (74LS90 & 74LS47)**
 
-🔗 Repositories:  
-👉 https://github.com/Mo3tasemO
 
 ---
 
