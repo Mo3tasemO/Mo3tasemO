@@ -27,15 +27,15 @@ Hi 👋, I'm Moatasem Osama
 ## 🔧 Automotive & Embedded Projects
 
 ### 🚘 Automotive / Embedded Systems
-- [**Seat Controller ECU**](https://github.com/Mo3tasemO/SeatControllerECU](https://github.com/Mo3tasemO/AVR_Projects/tree/main/Seat_Controller_ECU))
+- [**Seat Controller ECU**](https://github.com/Mo3tasemO/AVR_Projects/tree/main/Seat_Controller_ECU)
 - **Traffic Density Control System**
-- [**Obstacle Avoidance Car**](https://github.com/Mo3tasemO/ObstacleAvoidanceCar](https://github.com/Mo3tasemO/AVR_Projects/tree/main/Ostacle_Avoidance_Car))  
-- [**Smart Home**](https://github.com/Mo3tasemO/SmartHome](https://github.com/Mo3tasemO/AVR_Projects/tree/main/Smart_Home(Temp%20Control)))  
+- [**Obstacle Avoidance Car**](https://github.com/Mo3tasemO/AVR_Projects/tree/main/Ostacle_Avoidance_Car)  
+- [**Smart Home**](https://github.com/Mo3tasemO/AVR_Projects/tree/main/Smart_Home(Temp%20Control))  
 
 ### 🧠 PCB & Electronics Design
-- [**ESP8266 Custom Development Board**](https://github.com/Mo3tasemO/ESP8266DevBoard](https://github.com/Mo3tasemO/PCB_Designs/tree/main/ESP%208266_Dev_Board/ESP%208266_Dev_Board))  
-- [**Breadboard_Power_Supply**](https://github.com/Mo3tasemO/RegulatedPowerSupply](https://github.com/Mo3tasemO/PCB_Designs/tree/main/Breadboard_Power_Supply))  
-- [**Function Generator**](https://github.com/Mo3tasemO/FunctionGenerator](https://github.com/Mo3tasemO/PCB_Designs/tree/main/Function_Generator))  
+- [**ESP8266 Custom Development Board**](https://github.com/Mo3tasemO/PCB_Designs/tree/main/ESP%208266_Dev_Board/ESP%208266_Dev_Board)  
+- [**Breadboard_Power_Supply**](https://github.com/Mo3tasemO/PCB_Designs/tree/main/Breadboard_Power_Supply)  
+- [**Function Generator**](https://github.com/Mo3tasemO/PCB_Designs/tree/main/Function_Generator)  
 - **Voice-Controlled Lighting System** 
 - **Digital Counter (74LS90 & 74LS47)**
 
