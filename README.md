@@ -7,7 +7,6 @@ Hi 👋, I'm Moatasem Osama
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23007ACC&size=25&center=true&vCenter=true&width=700&height=100&lines=Automotive+Embedded+Software+Engineer;PCB+Designer+%7C+ECU+Development;STM32+%7C+AVR+%7C+ESP32;CAN+%7C+LIN+%7C+AUTOSAR;Turning+Ideas+Into+Reliable+Hardware">
 </p>
 
-
 ---
 
 ## 🚗 About Me | Automotive & PCB Focus
@@ -15,8 +14,6 @@ Hi 👋, I'm Moatasem Osama
 <picture>
 <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250"/>
 </picture>
-
-
 
 - 🎓 **Electronics & Communication Engineering Student**  
   *Canadian International College (2022–2027)*  
@@ -30,18 +27,17 @@ Hi 👋, I'm Moatasem Osama
 ## 🔧 Automotive & Embedded Projects
 
 ### 🚘 Automotive / Embedded Systems
-- **Seat Controller ECU** – STM32, ESP32, I²C, UART
-- **Traffic Density Control System** – ATmega8
-- **Obstacle Avoidance Car** – ATmega32
-- **Smart Home** – EEPROM, LM35, LCD, Keypad
+- [**Seat Controller ECU**](https://github.com/Mo3tasemO/SeatControllerECU](https://github.com/Mo3tasemO/AVR_Projects/tree/main/Seat_Controller_ECU))
+- **Traffic Density Control System**
+- [**Obstacle Avoidance Car**](https://github.com/Mo3tasemO/ObstacleAvoidanceCar](https://github.com/Mo3tasemO/AVR_Projects/tree/main/Ostacle_Avoidance_Car))  
+- [**Smart Home**](https://github.com/Mo3tasemO/SmartHome](https://github.com/Mo3tasemO/AVR_Projects/tree/main/Smart_Home(Temp%20Control)))  
 
 ### 🧠 PCB & Electronics Design
-- **ESP8266 Custom Development Board**
-- **Regulated Power Supply Circuit**
-- **Function Generator (NE555 – up to 32kHz)**
-- **Voice-Controlled Lighting System**
+- [**ESP8266 Custom Development Board**](https://github.com/Mo3tasemO/ESP8266DevBoard](https://github.com/Mo3tasemO/PCB_Designs/tree/main/ESP%208266_Dev_Board/ESP%208266_Dev_Board))  
+- [**Breadboard_Power_Supply**](https://github.com/Mo3tasemO/RegulatedPowerSupply](https://github.com/Mo3tasemO/PCB_Designs/tree/main/Breadboard_Power_Supply))  
+- [**Function Generator**](https://github.com/Mo3tasemO/FunctionGenerator](https://github.com/Mo3tasemO/PCB_Designs/tree/main/Function_Generator))  
+- **Voice-Controlled Lighting System** 
 - **Digital Counter (74LS90 & 74LS47)**
-
 
 ---
 
@@ -95,6 +91,7 @@ Hi 👋, I'm Moatasem Osama
 </p>
 
 ---
+
 ## 📄 My CV
 
 <p align="center">
@@ -124,7 +121,5 @@ Hi 👋, I'm Moatasem Osama
   <img src="https://github-readme-stats.vercel.app/api?username=Mo3tasemO&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo3tasemO&layout=compact&theme=tokyonight"/>
 </p>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&theme=cobalt" />
