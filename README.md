@@ -95,7 +95,7 @@ Hi 👋, I'm Moatasem Osama
 ## 📄 My CV
 
 <p align="center">
-  <a href="[https://drive.google.com/file/d/11uScs79HPMNkOi9URu0EO4zLcCOWnG0_/view?usp=sharing](https://drive.google.com/file/d/1opfXUyPgwHlaSu78Kq8mohqwJJlbH0VC/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/11uScs79HPMNkOi9URu0EO4zLcCOWnG0_/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-0047AB?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
