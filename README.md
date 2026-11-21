@@ -29,7 +29,7 @@ Hi 👋, I'm Moatasem Osama
 ### 🚘 Automotive / Embedded Systems
 - [**Seat Controller ECU**](https://github.com/Mo3tasemO/AVR_Projects/tree/main/Seat_Controller_ECU)
 - **Traffic Density Control System**
-- [**Obstacle Avoidance Car**](https://github.com/Mo3tasemO/AVR_Projects/tree/main/Ostacle_Avoidance_Car)  
+- [**ADAS_Lite_CAN_Obstacle_Avoidance_Car**](https://github.com/Mo3tasemO/Embedded_Sytem_Projects/tree/main/ADAS_Lite_CAN_Obstacle_Avoidance_Car)
 - [**Smart Home**](https://github.com/Mo3tasemO/AVR_Projects/tree/main/Smart_Home(Temp%20Control))  
 
 ### 🧠 PCB & Electronics Design
